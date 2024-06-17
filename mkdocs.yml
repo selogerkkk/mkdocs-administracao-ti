@@ -1,0 +1,52 @@
+site_name: Documentação dos Sitemas
+nav:
+  - Home: index.md
+  - Sobre: about.md
+  - Introdução: intro.md
+  - GLPI: glpi.md
+  - MkDocs: mkdocs.md
+  - Conclusão: conclusao.md
+theme:
+  name: material
+  palette:
+    # Light mode
+    - scheme: default
+      primary: teal
+      accent: pink
+      toggle:
+        icon: material/toggle-switch 
+        name: Switch to dark mode
+
+    # Dark mode
+    - scheme: slate
+      primary: pink
+      accent: teal
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  font:
+     text: Roboto Mono
+  language: pt-BR
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.top
+  
+  extra_css:
+    - stylesheets/extra.css
+  extra:
+   social:
+    - icon: fontawesome/brands/mastodon 
+      link: https://fosstodon.org/@squidfunk
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@squidfunk
+plugins:
+  - search
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+
