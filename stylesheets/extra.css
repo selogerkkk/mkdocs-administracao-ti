@@ -1,0 +1,9 @@
+:root {
+    --md-transition-speed: 4s; /* Define a duração da transição */
+  }
+  
+  html[data-md-color-scheme="default"],
+  html[data-md-color-scheme="slate"] {
+    transition: background-color var(--md-transition-speed), color var(--md-transition-speed);
+  }
+  
