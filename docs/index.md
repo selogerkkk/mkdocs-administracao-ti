@@ -1,21 +1,21 @@
 # Bem-vindo à Documentação de MkDocs e GLPI
 
-## O que é o MkDocs?
+## Introdução ao MkDocs
 
-[**MkDocs**](https://www.mkdocs.org/) é uma ferramenta que permite transformar arquivos Markdown em sites de documentação estática. É fácil de configurar e utilizar, oferecendo uma maneira eficiente e rápida de criar documentação técnica para seus projetos.
+[**MkDocs**](https://www.mkdocs.org/) é uma ferramenta que transforma arquivos Markdown em sites de documentação estática. É fácil de configurar e usar, proporcionando uma maneira eficiente e rápida de criar documentação técnica para seus projetos.
 
-### Principais Funcionalidades do MkDocs
+### Funcionalidades Principais do MkDocs
 
 - Conversão de arquivos Markdown para HTML
 - Temas personalizáveis
 - Suporte para navegação organizada
 - Ferramenta de busca integrada
 
-## O que é o GLPI?
+## Introdução ao GLPI
 
-[**GLPI**](https://glpi-project.org/) (Gestionnaire Libre de Parc Informatique) é um software para gerenciamento de ativos de TI e helpdesk. Ele permite que as organizações gerenciem seus ativos de hardware e software, acompanhem problemas e solicitações e otimizem processos de TI.
+[**GLPI**](https://glpi-project.org/) (Gestionnaire Libre de Parc Informatique) é um software para gerenciamento de ativos de TI e helpdesk. Ele permite que as organizações gerenciem seus ativos de hardware e software, acompanhem problemas e solicitações, e otimizem processos de TI.
 
-### Principais Funcionalidades do GLPI
+### Funcionalidades Principais do GLPI
 
 - Gerenciamento de inventário de TI
 - Sistema de helpdesk
@@ -24,11 +24,11 @@
 
 ## Objetivos desta Documentação
 
-- **Guias de Instalação**: Passo a passo para instalar e configurar o MkDocs e o GLPI.
+- **Guias de Instalação**: Instruções passo a passo para instalar e configurar o MkDocs e o GLPI.
 - **Tutoriais**: Instruções detalhadas sobre como utilizar as principais funcionalidades de ambos os sistemas.
 - **Referência Rápida**: Links e recursos úteis para suporte e documentação adicional.
 
-## Seções Principais
+## Estrutura da Documentação
 
 - [Sobre](about.md)
 - [Introdução](intro.md)

@@ -1,6 +1,6 @@
 # Introdução ao MkDocs
 
-MkDocs é uma ferramenta de geração de sites estáticos voltada especificamente para a criação de documentação de projetos. Escrito em Python, MkDocs é conhecido por sua simplicidade e eficiência, permitindo que desenvolvedores e equipes técnicas criem e mantenham documentação de alta qualidade com o mínimo de esforço. Com isso, utlizamos ele para que pudessemos documentar a respeito dos sistemas que utilizamos ao decorrer do período.
+MkDocs é uma ferramenta de geração de sites estáticos focada na criação de documentação para projetos. Desenvolvido em Python, MkDocs é reconhecido por sua simplicidade e eficiência, facilitando a criação e manutenção de documentação de alta qualidade com pouco esforço. Utilizamos MkDocs para documentar os sistemas que utilizamos ao longo do período.
 
 ## Instalação do MkDocs
 

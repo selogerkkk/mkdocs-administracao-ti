@@ -11,7 +11,7 @@ theme:
   palette:
     # Light mode
     - scheme: default
-      primary: teal
+      primary: cyan
       accent: pink
       toggle:
         icon: material/toggle-switch 
